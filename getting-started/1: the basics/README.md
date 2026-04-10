@@ -9,12 +9,12 @@ the pieces themselves have important distinctions and names!
 
 | piece | notes |
 | ----- | ----- |
-| pawn | you'll start with eight of these in a straight line! they look like minimalistic people. |
-| king | your most important piece. looks like a round crown. start with one. |
-| queen | second most important piece. looks like a pointy crown. start with one. |
-| knight | looks like a horse. no notes. start with two. |
-| rook | this will be very important when checkmating someone, or preventing checkmate on yourself. you start with two. they look like castle towers! |
-| bishop | also good for certain checkmates! looks like..a rounded top and a slit cut into it, resembling a mitre. start with two. |
+| pawn ♟ | you'll start with eight of these in a straight line! they look like minimalistic people. |
+| king ♚ | your most important piece. looks like a round crown. start with one. |
+| queen ♛ | second most important piece. looks like a pointy crown. start with one. |
+| knight ♞ | looks like a horse. no notes. start with two. |
+| rook ♜ | this will be very important when checkmating someone, or preventing checkmate on yourself. you start with two. they look like castle towers! |
+| bishop ♝ | also good for certain checkmates! looks like..a rounded top and a slit cut into it, resembling a mitre. start with two. |
 
 ## how they move
 
