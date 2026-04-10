@@ -73,5 +73,6 @@ once you're there, hit "Play against computer" (near the left) and make sure the
 3. strength set to `1`, or `2-3` if you want a little more of a challenge!
 4. set your side to whichever you want! reminder that white goes first!
 then, hit play against computer! good luck!
+when you're done, move onto `/strategy`!
 # or..
 you can play against a friend if they're willing! still though..good luck.

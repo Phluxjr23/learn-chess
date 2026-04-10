@@ -10,4 +10,5 @@ this depends on your current knowledge level. here is a general summary:
 ## i know absolutely nothing
 start in `getting-started/`! this will teach you basic notation, what the pieces look like, how they move, and the board!
 
-
+## i just want tips
+check out `strategy/`!

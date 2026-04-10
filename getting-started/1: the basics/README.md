@@ -65,6 +65,9 @@ however, with en passant, this gets a little...*weird* to say the least.
 > gif source: chess.com
 
 would you look at that, the pawn just grabbed that other pawn by going behind it!
+
+## promotion
+when pawns reach the end of the board, they can do something known as promotion! this allows them to become a rook, knight, bishop, or queen.
 see also: 
 * [chess.com en passant video](https://youtu.be/c_KRIH0wnhE)
 * [chess.com checkmate guide](https://www.chess.com/terms/checkmate-chess)
