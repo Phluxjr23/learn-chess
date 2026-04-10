@@ -54,6 +54,8 @@ the bishop can move like an X.
 ## winning
 in order to win, you must put your opponent in a position where their king cannot get out of check. this is called checkmate.
 here's an example of a two-rook checkmate:
+
+
 ![chess.com gif of a checkmate with 2 rooks](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/pdrpnht/phpfkPxzc.gif)
 > gif source: chess.com (shows it at the end of the video actually!)
 
